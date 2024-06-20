@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/Snippets.build/master.swiftdeps"
+  },
+  "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-plugin/Sources/Snippets/Model/Snippet.swift": {
+    "dependencies": "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/Snippets.build/Model/Snippet.d",
+    "object": "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/Snippets.build/Model/Snippet.swift.o",
+    "swiftmodule": "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/Snippets.build/Model/Snippet~partial.swiftmodule",
+    "swift-dependencies": "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/Snippets.build/Model/Snippet.swiftdeps"
+  },
+  "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-plugin/Sources/Snippets/Parsing/SnippetParser.swift": {
+    "dependencies": "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/Snippets.build/Parsing/SnippetParser.d",
+    "object": "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/Snippets.build/Parsing/SnippetParser.swift.o",
+    "swiftmodule": "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/Snippets.build/Parsing/SnippetParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/Snippets.build/Parsing/SnippetParser.swiftdeps"
+  }
+}

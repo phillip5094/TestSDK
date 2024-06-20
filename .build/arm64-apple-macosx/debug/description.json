@@ -1,0 +1,1291 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/TestSDKPackageTests.xctest/Contents/MacOS/TestSDKPackageTests",
+      "productName" : "TestSDKPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+    "Swift_DocC_Preview",
+    "Swift_DocC"
+  ],
+  "pluginDescriptions" : [
+    {
+      "package" : "swift-docc-plugin",
+      "productNames" : [
+        "Swift-DocC"
+      ],
+      "sources" : {
+        "relativePaths" : [
+          "SwiftDocCConvert.swift",
+          "Symbolic Links/SharedPackagePluginExtensions/ArgumentExtractor+extractSpecifiedTargets.swift",
+          "Symbolic Links/SharedPackagePluginExtensions/PackageExtensions.swift",
+          "Symbolic Links/SharedPackagePluginExtensions/PackageManager+getSymbolGraphsForDocC.swift",
+          "Symbolic Links/SharedPackagePluginExtensions/PluginContext+doccExecutableURL.swift",
+          "Symbolic Links/SharedPackagePluginExtensions/SnippetExtractor+generateSnippetsForTarget.swift",
+          "Symbolic Links/SharedPackagePluginExtensions/SourceModuleTarget+doccCatalogPath.swift",
+          "Symbolic Links/SharedPackagePluginExtensions/Target+defaultSymbolGraphOptions.swift",
+          "Symbolic Links/SharedPackagePluginExtensions/Target+doccArchiveOutputPath.swift",
+          "Symbolic Links/SwiftDocCPluginUtilities/Arguments+outputPath.swift",
+          "Symbolic Links/SwiftDocCPluginUtilities/Arguments.swift",
+          "Symbolic Links/SwiftDocCPluginUtilities/CommandLineOptions/CommandLineOption.swift",
+          "Symbolic Links/SwiftDocCPluginUtilities/CommandLineOptions/RequiredCommandLineOption.swift",
+          "Symbolic Links/SwiftDocCPluginUtilities/DispatchTimeInterval+descriptionInSeconds.swift",
+          "Symbolic Links/SwiftDocCPluginUtilities/DocumentationTargetKind.swift",
+          "Symbolic Links/SwiftDocCPluginUtilities/FoundationExtensions/String+singleQuoted.swift",
+          "Symbolic Links/SwiftDocCPluginUtilities/HelpInformation.swift",
+          "Symbolic Links/SwiftDocCPluginUtilities/ParsedArguments.swift",
+          "Symbolic Links/SwiftDocCPluginUtilities/PluginAction.swift",
+          "Symbolic Links/SwiftDocCPluginUtilities/PluginFlags/ArgumentsTransforming.swift",
+          "Symbolic Links/SwiftDocCPluginUtilities/PluginFlags/DisableIndexFlag.swift",
+          "Symbolic Links/SwiftDocCPluginUtilities/PluginFlags/ExtendedTypesFlag.swift",
+          "Symbolic Links/SwiftDocCPluginUtilities/PluginFlags/PluginFlag+Equatable.swift",
+          "Symbolic Links/SwiftDocCPluginUtilities/PluginFlags/PluginFlag.swift",
+          "Symbolic Links/SwiftDocCPluginUtilities/PluginFlags/SkipSynthesizedSymbolsFlag.swift",
+          "Symbolic Links/SwiftDocCPluginUtilities/Snippets/SnippetExtractor.swift"
+        ],
+        "root" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-plugin/Plugins/Swift-DocC Convert"
+      },
+      "targetName" : "Swift-DocC",
+      "toolsVersion" : {
+        "_version" : "5.6.0"
+      }
+    },
+    {
+      "package" : "swift-docc-plugin",
+      "productNames" : [
+        "Swift-DocC Preview"
+      ],
+      "sources" : {
+        "relativePaths" : [
+          "SwiftDocCPreview.swift",
+          "Symbolic Links/SharedPackagePluginExtensions/ArgumentExtractor+extractSpecifiedTargets.swift",
+          "Symbolic Links/SharedPackagePluginExtensions/PackageExtensions.swift",
+          "Symbolic Links/SharedPackagePluginExtensions/PackageManager+getSymbolGraphsForDocC.swift",
+          "Symbolic Links/SharedPackagePluginExtensions/PluginContext+doccExecutableURL.swift",
+          "Symbolic Links/SharedPackagePluginExtensions/SnippetExtractor+generateSnippetsForTarget.swift",
+          "Symbolic Links/SharedPackagePluginExtensions/SourceModuleTarget+doccCatalogPath.swift",
+          "Symbolic Links/SharedPackagePluginExtensions/Target+defaultSymbolGraphOptions.swift",
+          "Symbolic Links/SharedPackagePluginExtensions/Target+doccArchiveOutputPath.swift",
+          "Symbolic Links/SwiftDocCPluginUtilities/Arguments+outputPath.swift",
+          "Symbolic Links/SwiftDocCPluginUtilities/Arguments.swift",
+          "Symbolic Links/SwiftDocCPluginUtilities/CommandLineOptions/CommandLineOption.swift",
+          "Symbolic Links/SwiftDocCPluginUtilities/CommandLineOptions/RequiredCommandLineOption.swift",
+          "Symbolic Links/SwiftDocCPluginUtilities/DispatchTimeInterval+descriptionInSeconds.swift",
+          "Symbolic Links/SwiftDocCPluginUtilities/DocumentationTargetKind.swift",
+          "Symbolic Links/SwiftDocCPluginUtilities/FoundationExtensions/String+singleQuoted.swift",
+          "Symbolic Links/SwiftDocCPluginUtilities/HelpInformation.swift",
+          "Symbolic Links/SwiftDocCPluginUtilities/ParsedArguments.swift",
+          "Symbolic Links/SwiftDocCPluginUtilities/PluginAction.swift",
+          "Symbolic Links/SwiftDocCPluginUtilities/PluginFlags/ArgumentsTransforming.swift",
+          "Symbolic Links/SwiftDocCPluginUtilities/PluginFlags/DisableIndexFlag.swift",
+          "Symbolic Links/SwiftDocCPluginUtilities/PluginFlags/ExtendedTypesFlag.swift",
+          "Symbolic Links/SwiftDocCPluginUtilities/PluginFlags/PluginFlag+Equatable.swift",
+          "Symbolic Links/SwiftDocCPluginUtilities/PluginFlags/PluginFlag.swift",
+          "Symbolic Links/SwiftDocCPluginUtilities/PluginFlags/SkipSynthesizedSymbolsFlag.swift",
+          "Symbolic Links/SwiftDocCPluginUtilities/Snippets/SnippetExtractor.swift"
+        ],
+        "root" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-plugin/Plugins/Swift-DocC Preview"
+      },
+      "targetName" : "Swift-DocC Preview",
+      "toolsVersion" : {
+        "_version" : "5.6.0"
+      }
+    }
+  ],
+  "swiftCommands" : {
+    "C.snippet-extract-debug.module" : {
+      "executable" : "/Applications/Xcode-15.0.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-plugin/Sources/snippet-extract/SnippetBuildCommand.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-plugin/Sources/snippet-extract/Utility/SymbolGraph+Snippet.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-plugin/Sources/snippet-extract/Utility/URL+Status.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/Snippets.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.swiftmodule"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "snippet_extract",
+      "moduleOutputPath" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/snippet_extract.swiftmodule",
+      "objects" : [
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/snippet_extract.build/SnippetBuildCommand.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/snippet_extract.build/Utility/SymbolGraph+Snippet.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/snippet_extract.build/Utility/URL+Status.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.15.4",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "snippet_extract_main",
+        "-color-diagnostics",
+        "-sdk",
+        "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-F",
+        "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-suppress-warnings"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/snippet_extract.build/SnippetBuildCommand.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/snippet_extract.build/Utility/SymbolGraph+Snippet.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/snippet_extract.build/Utility/URL+Status.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/snippet_extract.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-plugin/Sources/snippet-extract/SnippetBuildCommand.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-plugin/Sources/snippet-extract/Utility/SymbolGraph+Snippet.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-plugin/Sources/snippet-extract/Utility/URL+Status.swift"
+      ],
+      "tempsPath" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/snippet_extract.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.Snippets-debug.module" : {
+      "executable" : "/Applications/Xcode-15.0.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-plugin/Sources/Snippets/Model/Snippet.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-plugin/Sources/Snippets/Parsing/SnippetParser.swift"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "Snippets",
+      "moduleOutputPath" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/Snippets.swiftmodule",
+      "objects" : [
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/Snippets.build/Model/Snippet.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/Snippets.build/Parsing/SnippetParser.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.15.4",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/Snippets.build/Snippets-Swift.h",
+        "-color-diagnostics",
+        "-sdk",
+        "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-F",
+        "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-suppress-warnings"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/Snippets.build/Model/Snippet.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/Snippets.build/Parsing/SnippetParser.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/Snippets.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-plugin/Sources/Snippets/Model/Snippet.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-plugin/Sources/Snippets/Parsing/SnippetParser.swift"
+      ],
+      "tempsPath" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/Snippets.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.SymbolKit-debug.module" : {
+      "executable" : "/Applications/Xcode-15.0.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/Mixin/Mixin+Equals.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/Mixin/Mixin+Hash.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/Mixin/Mixin.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/LineList/LineList.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/LineList/SourceRange/Position.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/LineList/SourceRange/SourceRange.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Metadata.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Module.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/OperatingSystem.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Platform.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Relationship/Relationship.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Relationship/RelationshipKind.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Relationship/SourceOrigin.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Relationship/Swift/GenericConstraints.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Relationship/Swift/Swift.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/SemanticVersion.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/AccessControl.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Availability/Availability.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Availability/AvailabilityItem.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Availability/Domain.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/DeclarationFragments/DeclarationFragments.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/DeclarationFragments/Fragment/Fragment.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/DeclarationFragments/Fragment/FragmentKind.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/FunctionSignature/FunctionParameter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/FunctionSignature/FunctionSignature.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Identifier.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/KindIdentifier.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Location.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Mutability.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Names.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/SPI.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Snippet.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Swift/Extension.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Swift/GenericConstraint.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Swift/GenericParameter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Swift/Generics.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Swift/Namespace.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Symbol.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/SymbolKind.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/SymbolGraph.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/UnifiedSymbolGraph/GraphCollector.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/UnifiedSymbolGraph/UnifiedSymbol+Encodable.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/UnifiedSymbolGraph/UnifiedSymbol.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/UnifiedSymbolGraph/UnifiedSymbolGraph+Encodable.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/UnifiedSymbolGraph/UnifiedSymbolGraph.swift"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "SymbolKit",
+      "moduleOutputPath" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.swiftmodule",
+      "objects" : [
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/Mixin/Mixin+Equals.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/Mixin/Mixin+Hash.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/Mixin/Mixin.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/LineList/LineList.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/LineList/SourceRange/Position.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/LineList/SourceRange/SourceRange.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Metadata.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Module.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/OperatingSystem.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Platform.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Relationship/Relationship.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Relationship/RelationshipKind.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Relationship/SourceOrigin.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Relationship/Swift/GenericConstraints.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Relationship/Swift/Swift.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/SemanticVersion.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/AccessControl.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/Availability/Availability.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/Availability/AvailabilityItem.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/Availability/Domain.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/DeclarationFragments/DeclarationFragments.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/DeclarationFragments/Fragment/Fragment.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/DeclarationFragments/Fragment/FragmentKind.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/FunctionSignature/FunctionParameter.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/FunctionSignature/FunctionSignature.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/Identifier.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/KindIdentifier.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/Location.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/Mutability.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/Names.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/SPI.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/Snippet.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/Swift/Extension.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/Swift/GenericConstraint.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/Swift/GenericParameter.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/Swift/Generics.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/Swift/Namespace.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/Symbol.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/SymbolKind.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/SymbolGraph.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/UnifiedSymbolGraph/GraphCollector.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/UnifiedSymbolGraph/UnifiedSymbol+Encodable.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/UnifiedSymbolGraph/UnifiedSymbol.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/UnifiedSymbolGraph/UnifiedSymbolGraph+Encodable.swift.o",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/UnifiedSymbolGraph/UnifiedSymbolGraph.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolKit-Swift.h",
+        "-color-diagnostics",
+        "-sdk",
+        "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-F",
+        "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-suppress-warnings"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/Mixin/Mixin+Equals.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/Mixin/Mixin+Hash.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/Mixin/Mixin.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/LineList/LineList.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/LineList/SourceRange/Position.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/LineList/SourceRange/SourceRange.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Metadata.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Module.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/OperatingSystem.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Platform.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Relationship/Relationship.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Relationship/RelationshipKind.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Relationship/SourceOrigin.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Relationship/Swift/GenericConstraints.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Relationship/Swift/Swift.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/SemanticVersion.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/AccessControl.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/Availability/Availability.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/Availability/AvailabilityItem.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/Availability/Domain.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/DeclarationFragments/DeclarationFragments.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/DeclarationFragments/Fragment/Fragment.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/DeclarationFragments/Fragment/FragmentKind.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/FunctionSignature/FunctionParameter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/FunctionSignature/FunctionSignature.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/Identifier.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/KindIdentifier.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/Location.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/Mutability.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/Names.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/SPI.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/Snippet.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/Swift/Extension.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/Swift/GenericConstraint.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/Swift/GenericParameter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/Swift/Generics.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/Swift/Namespace.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/Symbol.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/Symbol/SymbolKind.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolGraph/SymbolGraph.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/UnifiedSymbolGraph/GraphCollector.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/UnifiedSymbolGraph/UnifiedSymbol+Encodable.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/UnifiedSymbolGraph/UnifiedSymbol.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/UnifiedSymbolGraph/UnifiedSymbolGraph+Encodable.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/UnifiedSymbolGraph/UnifiedSymbolGraph.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/Mixin/Mixin+Equals.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/Mixin/Mixin+Hash.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/Mixin/Mixin.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/LineList/LineList.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/LineList/SourceRange/Position.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/LineList/SourceRange/SourceRange.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Metadata.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Module.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/OperatingSystem.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Platform.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Relationship/Relationship.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Relationship/RelationshipKind.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Relationship/SourceOrigin.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Relationship/Swift/GenericConstraints.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Relationship/Swift/Swift.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/SemanticVersion.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/AccessControl.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Availability/Availability.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Availability/AvailabilityItem.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Availability/Domain.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/DeclarationFragments/DeclarationFragments.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/DeclarationFragments/Fragment/Fragment.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/DeclarationFragments/Fragment/FragmentKind.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/FunctionSignature/FunctionParameter.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/FunctionSignature/FunctionSignature.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Identifier.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/KindIdentifier.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Location.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Mutability.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Names.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/SPI.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Snippet.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Swift/Extension.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Swift/GenericConstraint.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Swift/GenericParameter.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Swift/Generics.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Swift/Namespace.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Symbol.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/SymbolKind.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/SymbolGraph.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/UnifiedSymbolGraph/GraphCollector.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/UnifiedSymbolGraph/UnifiedSymbol+Encodable.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/UnifiedSymbolGraph/UnifiedSymbol.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/UnifiedSymbolGraph/UnifiedSymbolGraph+Encodable.swift",
+        "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/UnifiedSymbolGraph/UnifiedSymbolGraph.swift"
+      ],
+      "tempsPath" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.TestSDK-debug.module" : {
+      "executable" : "/Applications/Xcode-15.0.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/Sources/TestSDK/TestSDK.swift"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "TestSDK",
+      "moduleOutputPath" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/TestSDK.swiftmodule",
+      "objects" : [
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/TestSDK.build/TestSDK.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx10.13",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/TestSDK.build/TestSDK-Swift.h",
+        "-color-diagnostics",
+        "-sdk",
+        "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-F",
+        "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-package-name",
+        "testsdk"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/TestSDK.build/TestSDK.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/TestSDK.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/nhn/Desktop/TestSDK/Sources/TestSDK/TestSDK.swift"
+      ],
+      "tempsPath" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/TestSDK.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.TestSDKTests-debug.module" : {
+      "executable" : "/Applications/Xcode-15.0.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "importPath" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/Tests/TestSDKTests/TestSDKTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/TestSDK.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "TestSDKTests",
+      "moduleOutputPath" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/TestSDKTests.swiftmodule",
+      "objects" : [
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/TestSDKTests.build/TestSDKTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx13.0",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j12",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-color-diagnostics",
+        "-sdk",
+        "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-F",
+        "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-I",
+        "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-fPIC",
+        "-package-name",
+        "testsdk"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/TestSDKTests.build/TestSDKTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/TestSDKTests.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "/Users/nhn/Desktop/TestSDK/Tests/TestSDKTests/TestSDKTests.swift"
+      ],
+      "tempsPath" : "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/TestSDKTests.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "snippet_extract" : [
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "snippet_extract",
+      "-incremental",
+      "-c",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-plugin/Sources/snippet-extract/SnippetBuildCommand.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-plugin/Sources/snippet-extract/Utility/SymbolGraph+Snippet.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-plugin/Sources/snippet-extract/Utility/URL+Status.swift",
+      "-I",
+      "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx10.15.4",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-g",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "snippet_extract_main",
+      "-color-diagnostics",
+      "-sdk",
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-F",
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-suppress-warnings",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "Snippets" : [
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "Snippets",
+      "-incremental",
+      "-c",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-plugin/Sources/Snippets/Model/Snippet.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-plugin/Sources/Snippets/Parsing/SnippetParser.swift",
+      "-I",
+      "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx10.15.4",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-g",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/Snippets.build/Snippets-Swift.h",
+      "-color-diagnostics",
+      "-sdk",
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-F",
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-suppress-warnings",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "SymbolKit" : [
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "SymbolKit",
+      "-incremental",
+      "-c",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/Mixin/Mixin+Equals.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/Mixin/Mixin+Hash.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/Mixin/Mixin.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/LineList/LineList.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/LineList/SourceRange/Position.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/LineList/SourceRange/SourceRange.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Metadata.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Module.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/OperatingSystem.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Platform.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Relationship/Relationship.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Relationship/RelationshipKind.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Relationship/SourceOrigin.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Relationship/Swift/GenericConstraints.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Relationship/Swift/Swift.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/SemanticVersion.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/AccessControl.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Availability/Availability.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Availability/AvailabilityItem.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Availability/Domain.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/DeclarationFragments/DeclarationFragments.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/DeclarationFragments/Fragment/Fragment.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/DeclarationFragments/Fragment/FragmentKind.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/FunctionSignature/FunctionParameter.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/FunctionSignature/FunctionSignature.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Identifier.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/KindIdentifier.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Location.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Mutability.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Names.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/SPI.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Snippet.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Swift/Extension.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Swift/GenericConstraint.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Swift/GenericParameter.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Swift/Generics.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Swift/Namespace.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/Symbol.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/Symbol/SymbolKind.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/SymbolGraph/SymbolGraph.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/UnifiedSymbolGraph/GraphCollector.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/UnifiedSymbolGraph/UnifiedSymbol+Encodable.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/UnifiedSymbolGraph/UnifiedSymbol.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/UnifiedSymbolGraph/UnifiedSymbolGraph+Encodable.swift",
+      "/Users/nhn/Desktop/TestSDK/.build/checkouts/swift-docc-symbolkit/Sources/SymbolKit/UnifiedSymbolGraph/UnifiedSymbolGraph.swift",
+      "-I",
+      "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-g",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/SymbolKit.build/SymbolKit-Swift.h",
+      "-color-diagnostics",
+      "-sdk",
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-F",
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-suppress-warnings",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "TestSDK" : [
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "TestSDK",
+      "-package-name",
+      "testsdk",
+      "-incremental",
+      "-c",
+      "/Users/nhn/Desktop/TestSDK/Sources/TestSDK/TestSDK.swift",
+      "-I",
+      "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx10.13",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-g",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/TestSDK.build/TestSDK-Swift.h",
+      "-color-diagnostics",
+      "-sdk",
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-F",
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-package-name",
+      "testsdk",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ],
+    "TestSDKTests" : [
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "TestSDKTests",
+      "-package-name",
+      "testsdk",
+      "-incremental",
+      "-c",
+      "/Users/nhn/Desktop/TestSDK/Tests/TestSDKTests/TestSDKTests.swift",
+      "-I",
+      "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug",
+      "-target",
+      "arm64-apple-macosx13.0",
+      "-swift-version",
+      "5",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-g",
+      "-j12",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-color-diagnostics",
+      "-sdk",
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-F",
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-I",
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-fPIC",
+      "-package-name",
+      "testsdk",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode-15.0.0.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "snippet_extract" : [
+      "SymbolKit",
+      "Snippets"
+    ],
+    "Snippets" : [
+
+    ],
+    "SymbolKit" : [
+
+    ],
+    "TestSDK" : [
+
+    ],
+    "TestSDKTests" : [
+      "TestSDK"
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  }
+}

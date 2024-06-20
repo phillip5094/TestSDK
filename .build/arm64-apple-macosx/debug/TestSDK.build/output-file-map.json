@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/TestSDK.build/master.swiftdeps"
+  },
+  "/Users/nhn/Desktop/TestSDK/Sources/TestSDK/TestSDK.swift": {
+    "dependencies": "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/TestSDK.build/TestSDK.d",
+    "object": "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/TestSDK.build/TestSDK.swift.o",
+    "swiftmodule": "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/TestSDK.build/TestSDK~partial.swiftmodule",
+    "swift-dependencies": "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/TestSDK.build/TestSDK.swiftdeps"
+  }
+}

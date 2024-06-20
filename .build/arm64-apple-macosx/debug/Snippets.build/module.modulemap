@@ -1,0 +1,4 @@
+module Snippets {
+    header "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/Snippets.build/Snippets-Swift.h"
+    requires objc
+}

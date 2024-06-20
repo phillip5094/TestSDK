@@ -1,0 +1,4 @@
+module TestSDK {
+    header "/Users/nhn/Desktop/TestSDK/.build/arm64-apple-macosx/debug/TestSDK.build/TestSDK-Swift.h"
+    requires objc
+}
